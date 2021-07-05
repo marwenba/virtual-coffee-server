@@ -1,0 +1,10 @@
+asklepios\thinkit\api\ScheduleApiController.class
+asklepios\thinkit\services\SlotsService.class
+asklepios\thinkit\ServerApplication.class
+asklepios\thinkit\models\Thinkiter.class
+asklepios\thinkit\ServerApplication$ExitException.class
+asklepios\thinkit\models\ApiObject.class
+asklepios\thinkit\models\GuestsAvailable.class
+asklepios\thinkit\models\Slot.class
+asklepios\thinkit\models\Request.class
+asklepios\thinkit\services\DataProcessingService.class
